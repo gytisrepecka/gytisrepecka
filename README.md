@@ -1,8 +1,10 @@
 ### Labas 👋 Linkėjimai iš Lietuvos! 🇱🇹
 
-My name is **Gytis Repečka**, I am Software Engineer from Lithuania. I am Data warehousing professional (Teradata, Informatica), WordPress and Linux consultant, car on-board diagnostics (OBD-2) enthusiast. Writing code in SQL, Go, PHP and Bash. Fan of relational databases (MySQL/MariaDB, PostgreSQL), but learning time series (Prometheus) and in-memory (Redis) too.
+My name is **Gytis Repečka**, I am Software Engineer from Lithuania currently working with PostgreSQL and Linux infrastructure on AWS cloud and on-premise. Writing code in SQL, Go and Bash. Experienced data professional (Teradata, Informatica) with focus on Inmon's data warehousing architecture.
 
-- 🔭 [Inretio](https://inretio.dev/) is my small business company specializing in web infrastructure, federated services, car diagnostics and smart home solutions
+I am strong open source advocate promoting, documenting, teachning about and [contributing to open source software](https://fedi.dev/gytis/open-source) as well as open hardware projects. Key interests are data sovereignty, personal privacy and security, databases, backend development, internet of things (IoT), automotive diagnostics and telemetry.
+
+- 🔭 [Inretio](https://inret.io/) is my small business company providing IT consulting services, building data-driven solutions and performing smart automotive diagnostics
 - 🌱 I am currently learning Go language by building small [image processing library](https://fedi.dev/webimg/)
 - 💬 Ask me about Linux infrastructure, data modeling and transformations, open source software
 - 📫 Contact me via e-mail gytis@repecka.com ([GPG public key](https://source.gyt.is/gytisrepecka/keys/src/branch/master/gytis_repecka_com_public.asc)) or find on [LinkedIn](https://www.linkedin.com/in/gytisrepecka/)
